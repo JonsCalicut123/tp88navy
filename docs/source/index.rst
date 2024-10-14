@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+TP88 - Nhà Cái Cá Cược Tỷ Phú 88 Uy Tín 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`TP88 <https://tp88.navy/>`_ là nhà cái giải trí trực tuyến được thành lập vào năm 2010. Chúng tôi cam kết cung cấp dịch vụ cá cược văn minh và an toàn, cùng nhiều khuyến mãi cực hot.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên lạc: 
 
-.. note::
+Website: https://tp88.navy/
 
-   This project is under active development.
+Địa Chỉ: 88 Huỳnh Văn Bánh, Phường 12, Phú Nhuận, Hồ Chí Minh 700000, Việt Nam
 
-Contents
---------
+Phone: 0839335588
 
-.. toctree::
+Gmail: Tp88.navy@gmai.com
 
-   usage
-   api
+#tp88 #trangchutp88 #dangkytp88 #dangnhaptp88 #linktp88
